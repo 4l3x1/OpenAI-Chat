@@ -9,3 +9,7 @@ cd .\server\
 npm init -y
 npm install cors dotenv express nodemon openai
 ```
+
+## Hosting Gratuito [https://render.com/]
+
+-
